@@ -21,13 +21,13 @@ I'm Thomas!
 My interests are **Data Science** and **Software Engineering**.
 
 
-## 💻 I'm currently learning & working with
+## 📖 I'm currently learning & working with
 
 * React Native
 * NextJS & ReactJS
 * NodeJS
 
-## Languages/Databases and Tools:
+## 💻 Languages/Databases and Tools:
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>

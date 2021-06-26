@@ -53,5 +53,4 @@ These are some of my personal projects developed in my free time, as well as som
 ## 📈 My Github stats
 
 ![TommysG's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommysG&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommysG&show_icons=true&theme=tokyonight)](https://github.com/TommysG)

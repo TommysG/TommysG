@@ -27,13 +27,13 @@ My interests are **Data Science** and **Software Engineering**.
 * NextJS & ReactJS
 * NodeJS
 
-## 💻 Languages/Databases and Tools:
+## 💻 Languages/Databases and Tools
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/5ebc638bb3e5113c5a87a5462197c35f40f7185ea9940e7723846b6e403f8a6b/68747470733a2f2f6372656174652d72656163742d6170702e6465762f696d672f6c6f676f2e737667"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
